@@ -1,0 +1,9 @@
+# basic variable 
+name = "Madhuri"
+age = 29
+city = "Gujarat"
+
+# Printing variables
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
